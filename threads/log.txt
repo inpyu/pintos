@@ -1,0 +1,70 @@
+qemu-system-i386 -device isa-debug-exit -hda /tmp/jKVdMc1Vc9.dsk -m 4 -net none -serial stdio
+PiLo hda1
+Loading.........
+Kernel command line: crossroads aBD:bCD
+Pintos booting with 3,968 kB RAM...
+367 pages available in kernel pool.
+367 pages available in user pool.
+Calibrating timer...  733,184,000 loops/s.
+Boot complete.
+initializing 2 vehicles...
+initializing vehicle threads...
+running project2 crossroads ...
+[H[JX X   X   X X 
+X X   X   X X 
+      -       
+- - - - - - - 
+      -       
+X X   -   X X 
+X X   -   X X 
+unit step: 1
+[0;0H[7;9Ha [0;0H[3;13Hb [0;0H[H[JX X   X   X X 
+X X   X   X X 
+      -       
+- - - - - - - 
+      -       
+X X   -   X X 
+X X   -   X X 
+unit step: 2
+[0;0H[6;9Ha [0;0H[3;11Hb [0;0H[H[JX X   X   X X 
+X X   X   X X 
+      -       
+- - - - - - - 
+      -       
+X X   -   X X 
+X X   -   X X 
+unit step: 3
+[0;0H[5;9Ha [0;0H[3;9Hb [0;0H[H[JX X   X   X X 
+X X   X   X X 
+      -       
+- - - - - - - 
+      -       
+X X   -   X X 
+X X   -   X X 
+unit step: 4
+[0;0H[4;9Ha [0;0H[2;9Hb [0;0H[H[JX X   X   X X 
+X X   X   X X 
+      -       
+- - - - - - - 
+      -       
+X X   -   X X 
+X X   -   X X 
+unit step: 5
+[0;0H[3;9Ha [0;0H[1;9Hb [0;0H[H[JX X   X   X X 
+X X   X   X X 
+      -       
+- - - - - - - 
+      -       
+X X   -   X X 
+X X   -   X X 
+unit step: 6
+[0;0H[2;9Ha [0;0H[H[JX X   X   X X 
+X X   X   X X 
+      -       
+- - - - - - - 
+      -       
+X X   -   X X 
+X X   -   X X 
+unit step: 7
+[0;0H[1;9Ha [0;0H[H[Jfinished. releasing resources ...
+good bye.
